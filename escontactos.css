@@ -1,0 +1,12 @@
+    
+.contendor{
+
+    display: block;
+	text-align: center;
+	text-decoration: none;
+	width: 100%;
+	background-color: orangered;
+	color:white;
+	padding: -10px  ;
+	margin: -10px auto;
+}
